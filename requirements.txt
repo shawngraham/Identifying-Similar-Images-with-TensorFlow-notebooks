@@ -1,0 +1,7 @@
+psutil
+numpy
+tensorflow
+scipy
+nltk
+sklearn
+annoy
