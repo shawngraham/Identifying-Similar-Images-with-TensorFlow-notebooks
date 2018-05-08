@@ -1,7 +1,0 @@
-dependencies:
-  - psutil
-  - numpy
-  - tensorflow
-  - scipy
-  - nltk
-  - sklearn
