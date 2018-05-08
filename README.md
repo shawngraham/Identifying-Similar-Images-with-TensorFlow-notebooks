@@ -1,4 +1,4 @@
-# bindr-test-Identifying-Similar-Images-with-TensorFlow
+# Identifying-Similar-Images-with-TensorFlow
 
 You can launch this jupyter notebook in an executable environment by clicking on the button below.
 
