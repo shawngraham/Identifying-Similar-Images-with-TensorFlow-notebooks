@@ -2,7 +2,6 @@ dependencies:
   - psutil
   - numpy
   - tensorflow
-  - annoy 
   - scipy
   - nltk
   - sklearn
